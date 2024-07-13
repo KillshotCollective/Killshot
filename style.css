@@ -19,17 +19,17 @@ body {
 .logo {
     display: block;
     margin: 0 auto 20px;
-    max-width: 100%;
+    max-width: 150px; /* Adjust this value to control the size */
     height: auto;
 }
 
 h1 {
     text-align: center;
-    color: #04A004;
+    color: #00FF00;
 }
 
 h2 {
-    color: #04A004;
+    color: #00FF00;
     margin-top: 20px;
 }
 
@@ -43,7 +43,7 @@ footer {
 }
 
 a {
-    color: #04A004;
+    color: #00FF00;
     text-decoration: none;
 }
 
