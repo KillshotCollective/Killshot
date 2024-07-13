@@ -16,13 +16,20 @@ body {
     text-align: left;
 }
 
+.logo {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+    height: auto;
+}
+
 h1 {
     text-align: center;
-    color: #00FF00;
+    color: #04A004;
 }
 
 h2 {
-    color: #00FF00;
+    color: #04A004;
     margin-top: 20px;
 }
 
@@ -36,7 +43,7 @@ footer {
 }
 
 a {
-    color: #00FF00;
+    color: #04A004;
     text-decoration: none;
 }
 
